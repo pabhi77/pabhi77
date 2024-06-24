@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Audio Filtering System**
 
-- 🌱 I’m currently learning **Docker,AWS,react,Advance javascript**
+- 🌱 I’m currently learning **PYTHON,Docker,AWS,Advance javascript**
 
-- 💬 Ask me about **c++,OOPS,AWS,MYSQL**
+- 💬 Ask me about **C++,OOPS,AWS,MYSQL**
 
 - 📫 How to reach me **ayp1436@gmail.com**
 
