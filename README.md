@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Patil</h1>
-<h3 align="center">I recently graduated with a Bachelors degree in Information Technology from Walchand College Of Engineering Sangli. I'm passionate about software development, cloud computing, and AI/ML. I'm eager to apply my skills and continue learning in these exciting fields.</h3>
+<h3 align="center">I recently graduated with a Bachelors degree in Information Technology from Walchand College Of Engineering Sangli. I'm passionate about software development,Backend, and AI/ML. I'm eager to apply my skills and continue learning in these exciting fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabhi77&label=Profile%20views&color=0e75b6&style=flat" alt="pabhi77" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Audio Filtering System**
 
-- 🌱 I’m currently learning **PYTHON,Docker,AWS,Advance javascript**
+- 🌱 I’m currently learning **PYTHON,Advance javascript**
 
-- 💬 Ask me about **C++,OOPS,AWS,MYSQL**
+- 💬 Ask me about **C++,OOPS,NLP,MYSQL**
 
 - 📫 How to reach me **ayp1436@gmail.com**
 
