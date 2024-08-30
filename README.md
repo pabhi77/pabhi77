@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabhi77" alt="pabhi77" /></a> </p>
 
-- 🔭 I’m currently working on **Audio Filtering System**
+- 🔭 I’m currently working on **Realtime chat App and chatbot using gemini api**
 
 - 🌱 I’m currently learning **PYTHON,Advance javascript**
 
