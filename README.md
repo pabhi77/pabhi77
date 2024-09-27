@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Realtime chat App and chatbot using gemini api**
 
-- 🌱 I’m currently learning **PYTHON,Advance javascript**
+- 🌱 I’m currently learning **full Stack,Advance javascript**
 
-- 💬 Ask me about **C++,OOPS,NLP,MYSQL**
+- 💬 Ask me about **C++,OOPS,NLP,MYSQL,Javascrript**
 
 - 📫 How to reach me **ayp1436@gmail.com**
 
